@@ -32,3 +32,4 @@
 4. No magic string
 5. Responsive UI
 6. Testable side effects by Saga
+7. Declarative programming
