@@ -10,8 +10,8 @@
 ## Assumptions
 1. This is an application for students
 2. Student information including student ID, semesters already exist while user launch this page
-3. for "/enrollments" endpoint, if courseCode been omitted in request parameters. the endpoint will retrive all enrolled courses against the current student.
-4. for "/grades" endpoint, if courseCode been omitted in request parameters. the endpoint will retrive all enrolled courses against the current student.
+3. for "/enrollments" endpoint, if courseCode been omitted in request parameters. The endpoint will retrive all enrolled courses against the current student.
+4. for "/grades" endpoint, if courseCode been omitted in request parameters. The endpoint will retrive all grades against the current student.
 
 ## Technologies Used
  - React + Redux + Saga
