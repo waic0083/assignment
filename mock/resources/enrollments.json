@@ -1,0 +1,100 @@
+[
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "016216",
+    "semester": "201901",
+    "type": "Lecture"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "022216",
+    "semester": "201901",
+    "type": "Science"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "017216",
+    "semester": "201901",
+    "type": "Art"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "033216",
+    "semester": "201901",
+    "type": "Physics"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "044216",
+    "semester": "201901",
+    "type": "Psychology"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "055216",
+    "semester": "201901",
+    "type": "Physics (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "066216",
+    "semester": "201901",
+    "type": "Math (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "077216",
+    "semester": "201901",
+    "type": "Science (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "087216",
+    "semester": "201901",
+    "type": "Art (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "177216",
+    "semester": "201901",
+    "type": "Art (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "089216",
+    "semester": "201901",
+    "type": "Art (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "997216",
+    "semester": "201901",
+    "type": "Psychology (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "907216",
+    "semester": "201901",
+    "type": "Materials (error case)"
+  },
+  {
+    "studentId": "999000099",
+    "groupId": "10",
+    "courseCode": "560216",
+    "semester": "201901",
+    "type": "Materials (error case)"
+  }
+]

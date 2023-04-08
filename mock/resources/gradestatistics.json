@@ -1,0 +1,52 @@
+{
+  "016216": {
+    "numberOfStudents": "100",
+    "courseCode": "016216",
+    "semester": "201901",
+    "passRate": "50%",
+    "studentRank": "21",
+    "minGrade": "0",
+    "maxGrade": "97",
+    "averageGrade": "70"
+  },
+  "022216": {
+    "numberOfStudents": "100",
+    "courseCode": "022216",
+    "semester": "201901",
+    "passRate": "60%",
+    "studentRank": "11",
+    "minGrade": "0",
+    "maxGrade": "88",
+    "averageGrade": "77"
+  },
+  "017216": {
+    "numberOfStudents": "78",
+    "courseCode": "017216",
+    "semester": "201901",
+    "passRate": "70%",
+    "studentRank": "11",
+    "minGrade": "0",
+    "maxGrade": "88",
+    "averageGrade": "80"
+  },
+  "033216": {
+    "numberOfStudents": "10",
+    "courseCode": "033216",
+    "semester": "201901",
+    "passRate": "97%",
+    "studentRank": "8",
+    "minGrade": "0",
+    "maxGrade": "88",
+    "averageGrade": "90"
+  },
+  "044216": {
+    "numberOfStudents": "45",
+    "courseCode": "044216",
+    "semester": "201901",
+    "passRate": "90%",
+    "studentRank": "24",
+    "minGrade": "0",
+    "maxGrade": "88",
+    "averageGrade": "89"
+  }
+}

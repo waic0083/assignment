@@ -2,16 +2,37 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import { Provider } from 'react-redux'
+import store from './store'
+
+import 'antd/dist/reset.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
+class ErrorCatch extends React.Component {
+  state = {
+    hasError: false
+  }
+  componentDidCatch(error) {
+    console.error(error);
+  }
+
+  static getDerivedStateFromError(error) {
+    return { hasError: true };
+  }
+
+  render() {
+    const {hasError} = this.state;
+    return hasError ? <div>Oops!<br/>Error page !</div> : this.props.children;
+  }
+}
+
 root.render(
   <React.StrictMode>
-    <App />
+    <Provider store={store}>
+      <ErrorCatch>
+        <App />
+      </ErrorCatch>
+    </Provider>
   </React.StrictMode>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

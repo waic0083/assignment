@@ -1,0 +1,7 @@
+.panel{
+  width: auto;
+  min-height: 100%;
+  margin:  0 var(--pixel-4);
+  display: flex;
+  flex-direction: column;
+}

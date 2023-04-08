@@ -1,0 +1,13 @@
+.course-row {
+  cursor: pointer;
+}
+
+.overview {
+  flex: 1;
+  background: white;
+  border-radius: .36em;
+}
+
+.table-name {
+  text-indent: .5em;
+}

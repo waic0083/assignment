@@ -1,0 +1,100 @@
+[
+  {
+    "studentId": "999000099",
+    "courseCode": "016216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "79"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "022216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "83"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "017216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "76"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "033216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "89"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "044216",
+    "semester": "201901",
+    "take": "2",
+    "finalGrade": "77"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "055216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "66"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "066216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "87"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "077216",
+    "semester": "201901",
+    "take": "2",
+    "finalGrade": "90"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "087216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "93"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "177216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "81"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "089216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "93"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "997216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "81"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "907216",
+    "semester": "201901",
+    "take": "1",
+    "finalGrade": "81"
+   },
+   {
+    "studentId": "999000099",
+    "courseCode": "560216",
+    "semester": "201901",
+    "take": "2",
+    "finalGrade": "81"
+   }
+]
