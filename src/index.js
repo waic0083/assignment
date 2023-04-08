@@ -28,11 +28,9 @@ class ErrorCatch extends React.Component {
 }
 
 root.render(
-  <React.StrictMode>
-    <Provider store={store}>
-      <ErrorCatch>
-        <App />
-      </ErrorCatch>
-    </Provider>
-  </React.StrictMode>
+  <Provider store={store}>
+    <ErrorCatch>
+      <App />
+    </ErrorCatch>
+  </Provider>
 );
